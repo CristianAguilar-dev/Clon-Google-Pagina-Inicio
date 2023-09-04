@@ -20,6 +20,10 @@ El desafío consiste en crear el componente de resumen de resultados utilizando 
 
 ![Vista previa del diseño](./Clon-Google.png)
 
+### Enlaces
+
+- [Solución en GitHub](https://cristianaguilar-dev.github.io/Clon-Google-Pagina-Inicio/)
+
 ## Desafíos y Aprendizaje
 
 Durante este proyecto, enfrenté desafíos al alinear elementos correctamente y lograr que se asemejen al diseño proporcionado. Además, aprendí a utilizar flexbox para la disposición de elementos y a aplicar estilos de forma coherente.
