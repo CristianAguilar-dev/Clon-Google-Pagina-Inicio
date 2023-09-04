@@ -4,12 +4,13 @@ Este es el repositorio del desafío "Clon de Google"  En este proyecto, he const
 
 ## Descripción
 
-El desafío consiste en crear el componente de resumen de resultados utilizando HTML y CSS. A través de este proyecto, los usuarios pueden ver el diseño optimizado para diferentes tamaños de pantalla y experimentar los estados de hover y focus en elementos interactivos.
+El desafío consiste en crear una página similar a inicio de Google, utilizando HTML y CSS. A través de este proyecto, los usuarios pueden ver el diseño optimizado para diferentes tamaños de pantalla y experimentar los estados de hover y focus en elementos interactivos.
 
 ## Tecnologías Utilizadas
 
 - HTML
 - CSS
+- Google Fonts
 
 ## Cómo Iniciar
 
