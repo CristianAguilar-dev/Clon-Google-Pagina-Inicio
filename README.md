@@ -22,7 +22,7 @@ El desafío consiste en crear el componente de resumen de resultados utilizando 
 
 ### Enlaces
 
-- [Solución en vivo](https://cristianaguilar-dev.github.io/Clon-Google-Pagina-Inicio/)
+- [Ver sitio en vivo](https://cristianaguilar-dev.github.io/Clon-Google-Pagina-Inicio/)
 
 ## Desafíos y Aprendizaje
 
